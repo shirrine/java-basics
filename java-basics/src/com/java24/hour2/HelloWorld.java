@@ -1,4 +1,4 @@
-package com.java24hours;
+package com.java24.hour2;
 
 public class HelloWorld {
 
