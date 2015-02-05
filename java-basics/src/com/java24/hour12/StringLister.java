@@ -11,7 +11,7 @@ import java.util.Collections;
  */
 public class StringLister {
 	
-	String[] names = new String[]{"Thor", "Iron Man", "Captain America", "Black Widow", "Hulk"};
+	private String[] names = new String[]{"Thor", "Iron Man", "Captain America", "Black Widow", "Hulk"};
 	
 	public StringLister(String[] moreNames){
 		ArrayList<String> list = new ArrayList<String>();
