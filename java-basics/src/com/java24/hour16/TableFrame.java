@@ -72,6 +72,7 @@ public class TableFrame extends JFrame{
 	 * 
 	 * @param args	unused
 	 */
+	@SuppressWarnings("unused")
 	public static void main(String[] args){
 		TableFrame frame = new TableFrame();
 	}
