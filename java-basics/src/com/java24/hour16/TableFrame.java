@@ -18,7 +18,7 @@ public class TableFrame extends JFrame{
 	
 	// Static block to generate a serial version UID
 	static{
-		ObjectStreamClass osc = ObjectStreamClass.lookupAny(TableFrame.class.getClass()); // lookup or lookupAny?
+		ObjectStreamClass osc = ObjectStreamClass.lookupAny(TableFrame.class.getClass()); // TODO lookup or lookupAny?
 		serialVersionUID = osc.getSerialVersionUID();
 	}
 	
