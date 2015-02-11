@@ -10,7 +10,7 @@ import java.io.*;
  */
 public class ConfigWriter {
 	
-	String newLine = System.getProperty("line.separator");
+	private String newLine = System.getProperty("line.separator");
 	
 	/**
 	 * Writes data to a file.
